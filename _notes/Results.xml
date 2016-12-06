@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>3974</un:offset1>
+    <un:offset2>4061</un:offset2>
+    <un:linenum>51</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>Aucun texte ALT défini pour l'image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>3974</un:offset1>
+    <un:offset2>4061</un:offset2>
+    <un:linenum>51</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>L'image (autre qu'espacement) a peut-être besoin d'unattribut LONGDESC.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>65</un:offset1>
+    <un:offset2>4083</un:offset2>
+    <un:linenum>2</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>65</un:offset1>
+    <un:offset2>4083</un:offset2>
+    <un:linenum>2</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>1100</un:offset1>
+    <un:offset2>1375</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>1375</un:offset1>
+    <un:offset2>1738</un:offset2>
+    <un:linenum>36</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>1738</un:offset1>
+    <un:offset2>2068</un:offset2>
+    <un:linenum>37</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>2068</un:offset1>
+    <un:offset2>2349</un:offset2>
+    <un:linenum>38</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>2349</un:offset1>
+    <un:offset2>2640</un:offset2>
+    <un:linenum>39</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>2640</un:offset1>
+    <un:offset2>2972</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>2972</un:offset1>
+    <un:offset2>3208</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>3208</un:offset1>
+    <un:offset2>3438</un:offset2>
+    <un:linenum>42</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>3438</un:offset1>
+    <un:offset2>3951</un:offset2>
+    <un:linenum>43</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>627</un:offset1>
+    <un:offset2>965</un:offset2>
+    <un:linenum>16</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>179</un:offset1>
+    <un:offset2>625</un:offset2>
+    <un:linenum>6</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>976</un:offset1>
+    <un:offset2>4074</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Vérifiez qu'un lien texte est bien présent pouréviter les liens de navigationrépétés sur chaque page.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>976</un:offset1>
+    <un:offset2>4074</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page contient des images GIF :occasionnent-t-elles des scintillements d'écran ?Si c'est le cas, modifiez ou supprimez ces images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>179</un:offset1>
+    <un:offset2>625</un:offset2>
+    <un:linenum>6</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>976</un:offset1>
+    <un:offset2>4074</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///C|/EHPAD BON SECOURS/contact/page contact.htm</un:fileurl>
+    <un:offset1>976</un:offset1>
+    <un:offset2>4074</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>
